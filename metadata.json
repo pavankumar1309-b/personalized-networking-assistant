@@ -1,0 +1,6 @@
+{
+  "name": "Personalized Networking Assistant",
+  "description": "An AI-powered web application that analyzes event descriptions, understands user interests, and generates highly personalized conversation starters, complete with fact-checking, history tracking, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
